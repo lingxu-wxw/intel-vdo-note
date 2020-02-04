@@ -1,0 +1,12 @@
+intel:
+Remote host: qat-helin-1 
+	10.67.119.40
+Port: 22
+Specify username: root
+Password: tester
+Physical ID: wolf-pass-14
+
+SDIC:
+Remote host: 202.120.32.226
+Port: 8020
+Name: helinguo
